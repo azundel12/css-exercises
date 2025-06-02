@@ -1,0 +1,18 @@
+.Odd{
+    font-family: "Verdana","DejaVu Sans", sans-serif;
+    background-color: pink;
+}
+
+#blue_text{
+    color: blue;
+    font-size: 36px;
+}
+
+.Cooler{
+    font-size: 24px;
+}
+
+#Green{
+    background-color: lightgreen;
+    font-weight: bold;
+}
